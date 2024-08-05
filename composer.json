@@ -1,5 +1,5 @@
 {
-    "name": "pfilsx/postgresql-doctrine",
+    "name": "kojoench/postgresql-doctrine",
     "type": "library",
     "description": "Extended Doctrine DBAL and Doctrine migrations classes for postgresql specific features support",
     "license": "MIT",
